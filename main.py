@@ -27,7 +27,7 @@ total_wage = (regular_wage + overtime_wage)
 def main():
     print(f"Regular Charge: {regular_wage:.2f}")
     print(f"Overtime Charge: {overtime_wage:.2f}")
-    print(f"Total wage : {total_wage:.2f}")
+    print(f"Total wage: {total_wage:.2f}")
 
    ##################################################
    # Do not delete the return statement
